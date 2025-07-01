@@ -15,6 +15,7 @@ Dès qu’un rôle classé comme sécurisé (défini dans la configuration) est 
 Le système est conçu pour fonctionner en toute autonomie et garantit un niveau de sécurité optimal contre les abus internes (staff malintentionné, vol de compte, etc.).
 
 Le bot utilise exclusivement des commandes slash (full slash commands) pour une meilleure intégration et ergonomie.
+
 ---
 
 ## Fonctionnalités principales
