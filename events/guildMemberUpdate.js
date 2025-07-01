@@ -1,14 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const {
-  AuditLogEvent,
-  EmbedBuilder,
-  ActionRowBuilder,
-  ButtonBuilder,
-  ButtonStyle,
-  ComponentType,
-} = require("discord.js");
-
+const { AuditLogEvent, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, ComponentType } = require("discord.js");
 const dbPath = path.join(__dirname, "../db/db.json");
 
 module.exports = {
