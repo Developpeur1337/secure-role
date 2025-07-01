@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.21.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
